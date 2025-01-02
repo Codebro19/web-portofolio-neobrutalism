@@ -1,6 +1,6 @@
-# React Project Installation Guide
+# Project Web Portofolio Neobrutalism Installation Guide
 
-Welcome to the **React Project**! Follow this guide to set up and run the project on your local machine.
+Welcome to the **Web Portofolio Neobrutalism**! Follow this guide to set up and run the project on your local machine.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to the **React Project**! Follow this guide to set up and run the projec
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Codebro19/web-portofolio-neobrutalism.git
    cd your-repo
    ```
 
@@ -26,23 +26,7 @@ Welcome to the **React Project**! Follow this guide to set up and run the projec
    Start the development server.
 
    ```bash
-   npm start
-   ```
-
-4. **Build for Production**
-
-   Generate a production build.
-
-   ```bash
-   npm run build
-   ```
-
-5. **Test the Application**
-
-   Run the tests to ensure everything works correctly.
-
-   ```bash
-   npm test
+   npm run dev
    ```
 
 ---
@@ -53,7 +37,7 @@ Welcome to the **React Project**! Follow this guide to set up and run the projec
 
 If you find this project helpful or interesting, please **star this repository**! It helps others discover this project and motivates us to keep improving it.
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo)
+[![GitHub Stars](https://img.shields.io/github/stars/Codebro19/web-portofolio-neobrutalism.git?style=social)](https://github.com/Codebro19/web-portofolio-neobrutalism.git)
 
 ---
 
@@ -61,8 +45,14 @@ If you find this project helpful or interesting, please **star this repository**
 
 I'm always excited to connect with new people and discuss projects! Feel free to reach out to me:
 
-- **Tiktok**: [@your-tiktok-username](https://www.tiktok.com/@your-tiktok-username)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Tiktok**: [@Codebro](https://www.tiktok.com/@codebro20?_t=8sJYRgkYGYx&_r=1)
+- **GitHub**: [Github profile](https://github.com/Codebro19)
+- **Email**: codebro089@gmail.com
 
 Don't forget to check out my other projects and content on Tiktok for more tips and updates!
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
